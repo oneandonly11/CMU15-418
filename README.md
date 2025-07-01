@@ -16,3 +16,4 @@ Here are the CS149 labs I have done so far:
 
 - [Assignment 1: Performance Analysis on a Quad-Core CPU](https://github.com/oneandonly11/CS149-asst1)
 - [Assignment 2: Building A Task Execution Library from the Ground Up](https://github.com/oneandonly11/CS149-asst2)
+- [Assignment 3: A Simple CUDA Renderer](https://github.com/oneandonly11/CS149-asst3)
