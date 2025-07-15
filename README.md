@@ -8,7 +8,8 @@ Instead of I finished CS149 labs, I completed the CS149 labs for coding. The CS1
 
 Thanks to the course staff for providing the course materials.
 
-start at 2025.5.8
+- start at 2025.5.8
+- end at 2025.7.15
 
 ## labs
 
@@ -17,3 +18,4 @@ Here are the CS149 labs I have done so far:
 - [Assignment 1: Performance Analysis on a Quad-Core CPU](https://github.com/oneandonly11/CS149-asst1)
 - [Assignment 2: Building A Task Execution Library from the Ground Up](https://github.com/oneandonly11/CS149-asst2)
 - [Assignment 3: A Simple CUDA Renderer](https://github.com/oneandonly11/CS149-asst3)
+- [Assignment 5: Big Graph Processing in OpenMP](https://github.com/oneandonly11/CS149-asst5)
